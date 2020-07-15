@@ -13,15 +13,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/Math/Triangle_Quest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/Math/Triangle_Quest_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -33,17 +24,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/Itertools/itertools_product().py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
+            <state relative-caret-position="550">
               <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/Itertools/itertools_combinations().py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="10" selection-start-line="10" selection-end-line="22" selection-end-column="30" />
+            <state relative-caret-position="25">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice/Collections/Collections_deque().py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="41" column="3" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -141,6 +141,7 @@
         <option value="$PROJECT_DIR$/Practice/Math/Triangle_Quest_2.py" />
         <option value="$PROJECT_DIR$/Practice/Itertools/itertools_product().py" />
         <option value="$PROJECT_DIR$/Practice/Itertools/itertools_combinations().py" />
+        <option value="$PROJECT_DIR$/Practice/Collections/Collections_deque().py" />
       </list>
     </option>
   </component>
@@ -181,7 +182,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ML100Days" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -196,28 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.itertools_combinations()">
-    <configuration name="Find_Angle_MBC" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HackerRank" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/Math" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/Math/Find_Angle_MBC.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Doctests in Collections_deque()">
     <configuration name="Triangle_Quest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -302,13 +282,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Doctests in Collections_deque()" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/Collections" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/Collections/Collections_deque().py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Doctests in Collections_deque()" />
         <item itemvalue="Python.itertools_combinations()" />
         <item itemvalue="Python.itertools_product()" />
         <item itemvalue="Python.Triangle_Quest_2" />
         <item itemvalue="Python.Triangle_Quest" />
-        <item itemvalue="Python.Find_Angle_MBC" />
       </list>
     </recent_temporary>
   </component>
@@ -325,16 +323,41 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_Collections_deque() - 2020.07.15 at 08h 07m 15s.xml">
+      <configuration name="Doctests in Collections_deque()" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Collections_deque() - 2020.07.15 at 08h 07m 33s.xml">
+      <configuration name="Doctests in Collections_deque()" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Collections_deque() - 2020.07.15 at 08h 08m 43s.xml">
+      <configuration name="Doctests in Collections_deque()" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Collections_deque() - 2020.07.15 at 08h 09m 26s.xml">
+      <configuration name="Doctests in Collections_deque()" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Collections_deque() - 2020.07.15 at 08h 10m 57s.xml">
+      <configuration name="Doctests in Collections_deque()" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Collections_deque() - 2020.07.15 at 08h 12m 46s.xml">
+      <configuration name="Doctests in Collections_deque()" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Collections_deque() - 2020.07.15 at 08h 13m 09s.xml">
+      <configuration name="Doctests in Collections_deque()" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Collections_deque() - 2020.07.15 at 08h 16m 12s.xml">
+      <configuration name="Doctests in Collections_deque()" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3555241" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3555241" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -482,6 +505,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/Itertools/itertools_product().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/Basic_Data_Types/list_exe.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -526,17 +556,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/Itertools/itertools_product().py">
+    <entry file="file://$PROJECT_DIR$/Practice/Itertools/itertools_combinations().py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="25">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/Itertools/itertools_combinations().py">
+    <entry file="file://$PROJECT_DIR$/Practice/Collections/Collections_deque().py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="10" selection-start-line="10" selection-end-line="22" selection-end-column="30" />
+        <state relative-caret-position="325">
+          <caret line="41" column="3" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
         </state>
       </provider>
     </entry>
